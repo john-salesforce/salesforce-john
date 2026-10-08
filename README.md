@@ -9,7 +9,9 @@ I'm a Salesforce Solution Engineer who loves solving complex problems and helpin
 ## Trailhead
 
 <!--TH_Stats:start-->
-undefined
+
+![Trailhead-Stats-Light](images/TScard-light.png#gh-light-mode-only)
+![Trailhead-Stats-Dark](images/TScard-dark.png#gh-dark-mode-only)
 <!--TH_Stats:end-->
 
 ## Projects
